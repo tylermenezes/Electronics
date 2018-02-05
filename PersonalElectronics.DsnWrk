@@ -1,0 +1,6 @@
+[ProjectGroup]
+Version=1.0
+[Project1]
+ProjectPath=HydroponicControl\HydroponicControl.PrjPCB
+[Project2]
+ProjectPath=Library\Library.LibPkg
