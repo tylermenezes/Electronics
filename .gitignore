@@ -1,0 +1,7 @@
+
+*.Zip
+*.LOG
+*.SchDocPreview
+*.PcbDocPreview
+HydroponicControl/__Previews/ControlBoard.SchDocPreview
+HydroponicControl/__Previews/ControlBoard.PcbDocPreview
